@@ -34,11 +34,16 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - 사용 라이브러리
     - 함수, 클래스, 속성 등 라이브러리가 제공하는 기능 명칭
 
-### [\[20200414\] 과정 소개 및 Python (1) - 기본 문법](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200413%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200413\] 과정 소개 및 Python (1) - 기본 문법](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200413%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - jupyter notebook 사용법, markdown 문법, zen of python, 파이썬 숫자형, 도움말
     - antigravity, this, sys
     - type, int, float, complex, bool
-
+    
+### [\[20200414\] Python (2) - 자료형](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200414%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - 파이썬 자료형: number, string, container / container 특징: sequence, mutable, 
+    - keyword
+    - issubclass, id, dir, len
+    
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
