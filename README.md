@@ -44,6 +44,16 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - keyword
     - issubclass, id, dir, len
     
+### [\[20200416\] Python (3) - 자료형 - Container](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200416%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - dictionary, expression(식), statement(문), 할당문, 선언문, 반복문, 조건 판별, 조건문, interning
+    - this, dis
+    - in, and, or, not, if, else, while
+
+### [\[20200417\] Python (4) - 제어 구문](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200417%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - 반복문, 예외처리문, functional programming, 선언(정의)문, 매개변수, 인자
+    - python
+    - for, zip, enumerate, input, try, except, else, finally, pass, def, return
+
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
