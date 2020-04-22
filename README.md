@@ -54,6 +54,17 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - python
     - for, zip, enumerate, input, try, except, else, finally, pass, def, return
 
+### [\[20200420\] Python (5) - 함수](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200420%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - overloading, 함수 signature, higher order function, 중첩(nested), closure, 대입문, first class function, comprehension, recursion
+    - python
+    - lambda, return, del, callable, map, global, local, 
+
+### [\[20200421\] Python (6) - 함수형 패러다임 1](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200421%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - recursion, 피보나치 수열, iterable, iterator, generator, 객체지향 프로그래밍
+    - operator, itertools, collections
+    - reduce, map, filter, add, mul, sub, iter, next, yield, from, accumulate, count, cycle
+
+
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
