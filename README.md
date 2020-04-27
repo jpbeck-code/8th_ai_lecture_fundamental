@@ -65,6 +65,22 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - reduce, map, filter, add, mul, sub, iter, next, yield, from, accumulate, count, cycle
 
 
+
+### [\[20200422\] Python (7) - 함수형 패러다임 2](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200422%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - 선언문, decorator, 상속, magling, 몽키 패치
+    - matplotlib, sys
+    - classmethod, staticmethod, dir, vars, import, as, from
+    
+### [\[20200423\] Python (8) - 객체 지향 1](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200423%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - class, magic method, overriding, duck typing, underbar 기능, composition, 다중상속, 다이아몬드 문제
+    - PIL, collections, inspect
+    - __init__, __new__, __del__, __class__, __dir__, __iter__, __next__, __doc__, __dict__, __repr__, __str__, open, mro, super, issubclass, isinstance
+
+### [\[20200424\] Python (9) - 객체 지향 2](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200424%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - descriptor, annotation, underbar(_) 용법, asterisk(*) 용법, decorator
+    - python
+    - property, __getattribute__, __getattr__, __call__, __get__, __set__, __delete__, 
+
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
