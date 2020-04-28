@@ -81,6 +81,12 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - python
     - property, __getattribute__, __getattr__, __call__, __get__, __set__, __delete__, 
 
+### [\[20200427\] Python (10) - 객체 지향 3 & 모듈](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200427%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - decorator, metaclass, singleton, operator overloading
+    - functools, time, collections
+    - wraps, namedtuple, type
+
+
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
