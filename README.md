@@ -86,6 +86,10 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - functools, time, collections
     - wraps, namedtuple, type
 
+### [\[20200428\] Numpy (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200428%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - factory method, numpy 값 만들기, array 정보 확인, numpy와 python의 속도 차이, shallow copy, deep copy, order, numpy 값 뽑기, boolean indexing
+    - numpy, copy
+    - array, zeros, eye, identity, full, empty, _like, linspace, logspace, shape, ndim, size, dtype, itemsize, data, copy, deepcopy, lookfor
 
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
