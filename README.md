@@ -91,6 +91,12 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - numpy, copy
     - array, zeros, eye, identity, full, empty, _like, linspace, logspace, shape, ndim, size, dtype, itemsize, data, copy, deepcopy, lookfor
 
+### [\[20200429\] Numpy (2)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200429%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - indexing, boolean indexing, fancy indexing, Ellipsis, numpy 연산, strides, axis, ufunc(universal function), broadcasting
+    - numpy, operator, PIL
+    - vectorize, matrix, T, @(operator), strides, add, reduce, __array_interface__
+   
+   
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
