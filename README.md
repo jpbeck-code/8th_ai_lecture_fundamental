@@ -96,7 +96,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - numpy, operator, PIL
     - vectorize, matrix, T, @(operator), strides, add, reduce, __array_interface__
    
-   
+### [\[20200429\] Numpy (3) / Scipy](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200506%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - broadcasting, array 모양 바꾸기, array 쪼개기, array 합치기, 차원 확장, indexer, array 한줄로 펴기, 전치, structured array, 파일, text, binary
+    - numpy, pickle, pandas
+    - shape, dtype, reshape, resize, split, hsplit, vsplit, hstack, vstack, stack, dstack, concatenate, newaxis, expand_dims, r_, c_, s_, ix_, flatten, ravel, T, transpose, swapaxes, open, with, dump, load, save, savez, loadtxt, genfromtxt, read_csv
+    
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
