@@ -96,10 +96,30 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - numpy, operator, PIL
     - vectorize, matrix, T, @(operator), strides, add, reduce, __array_interface__
    
-### [\[20200429\] Numpy (3) / Scipy](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200506%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+### [\[20200506\] Numpy (3) / Scipy](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200506%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - broadcasting, array 모양 바꾸기, array 쪼개기, array 합치기, 차원 확장, indexer, array 한줄로 펴기, 전치, structured array, 파일, text, binary
     - numpy, pickle, pandas
     - shape, dtype, reshape, resize, split, hsplit, vsplit, hstack, vstack, stack, dstack, concatenate, newaxis, expand_dims, r_, c_, s_, ix_, flatten, ravel, T, transpose, swapaxes, open, with, dump, load, save, savez, loadtxt, genfromtxt, read_csv
+    
+### [\[20200507\] Pandas를 통한 데이터 처리 (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200507%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - 공공데이터 활용, pandas vs structured array, indexer, category, pandas indexing, EDA, Aggregation Analysis, Machine Learning 맛보기
+    - pandas, functools, numpy, seaborn, scikit-learn
+    - iloc, lov, at, iat, rename, partial, describe, percentile, columns, index, plot, pairplot, value_counts, head, tail, sample, info, groupby, KNeighborsRegressor
+
+### [\[20200508\] Pandas를 통한 데이터 처리 (2)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200508%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - input, select, output, modification
+    - pandas, sklearn, seaborn
+    - load_iris, from_dict, from_records, isin, where, query, to_csv, flat, items, iteritems, iterrows, itertuples, map, applymap, apply, set_index, drop
+    
+### [\[20200511\] Pandas를 통한 데이터 처리 (3)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200511%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tidy data, 구조변경, aggregation, multi index
+    - pandas, seaborn, numpy, itertools
+    - melt, wide_to_long, duplicated, drop, set_index, reset_index, asfarray, astype, groupby, pivot_table, crosstab, aggregate, agg, to_html, transform
+
+### [\[202005012\] Pandas를 통한 데이터 분석 (1)](https://github.com/realblack0/8th_ai_lecture_fundamental/blob/master/notebooks/20200512%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%208%EA%B8%B0%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - 추천 시스템
+    - pandas
+    - merge, join, pivot, stack, unstack, corr, sort_values, nlargest, intersection
     
 ## 문의사항
 - issues page: https://github.com/realblack0/8th_ai_lecture_fundamental/issues
